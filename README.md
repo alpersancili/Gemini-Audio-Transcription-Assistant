@@ -2,6 +2,7 @@
 Gemini Audio Transcription Assistant is an AI-powered tool that enables seamless speech-to-text transcription using Google's Gemini API. Built with Gradio, this project provides a user-friendly interface for multi-language transcription, model selection, and custom prompt integration.
 
 FEATURES
+
 AI-Powered Transcription – Leverages Gemini AI for high-quality speech-to-text conversion.
 Multi-Language Support – Supports Turkish, English, German, Spanish, and Russian.
 Model Selection – Choose between Gemini-1.5-Pro, Gemini-2.0-Flash, and Gemini-2.0-Lite.
